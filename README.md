@@ -38,9 +38,9 @@ You can quickly access the project with these commands:
 
 | CLONE | LINK |
 | ------ | ------ |
-| HTTPS | [https://github.com/Lauracelis/Calculator-JS.git] |
-|SSH | [git@github.com:Lauracelis/Calculator-JS.git]|
-| Github CLI | [gh repo clone Lauracelis/Calculator-JS] |
+| HTTPS | https://github.com/Lauracelis/Calculator-JS.git |
+|SSH | git@github.com:Lauracelis/Calculator-JS.git|
+| Github CLI | gh repo clone Lauracelis/Calculator-JS |
 
 
 
