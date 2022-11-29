@@ -38,10 +38,10 @@ You can quickly access the project with these commands:
 
 | CLONE | LINK |
 | ------ | ------ |
-| HTTPS | [https://github.com/Lauracelis/Calculator-JS.git][PlDb] |
-|SSH | [git@github.com:Lauracelis/Calculator-JS.git][PlGh] |
-| Github CLI | [gh repo clone Lauracelis/Calculator-JS][PlGd] |
+| HTTPS | [https://github.com/Lauracelis/Calculator-JS.git] |
+|SSH | [git@github.com:Lauracelis/Calculator-JS.git]|
+| Github CLI | [gh repo clone Lauracelis/Calculator-JS] |
 
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
