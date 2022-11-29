@@ -44,4 +44,4 @@ You can quickly access the project with these commands:
 
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
